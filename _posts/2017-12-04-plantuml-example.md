@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plantuml example
-categories: example
+categories: 日记本里的呐喊
 tags: [plantuml]
 ---
 

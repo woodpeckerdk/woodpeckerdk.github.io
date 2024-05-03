@@ -2,7 +2,7 @@
 layout: post
 title: Video example
 subtitle:
-categories: example
+categories: 刀是什么样的刀
 tags: [video]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mermaid example
-categories: example
+categories: 你们不要再打啦
 tags: [mermaid]
 ---
 

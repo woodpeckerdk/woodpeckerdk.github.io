@@ -2,7 +2,7 @@
 layout: post
 title: Table example
 subtitle:
-categories: example
+categories: 生信分析与编程
 tags: [table]
 ---
 

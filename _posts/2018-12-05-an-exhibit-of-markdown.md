@@ -2,7 +2,7 @@
 layout: post
 title: An exhibit of Markdown
 subtitle: Each post also has a subtitle
-categories: markdown
+categories: 刀是什么样的刀
 tags: [example, markdown]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Another test markdown
 subtitle: Each post also has a subtitle
-categories: markdown
+categories: 诗和远方的田野
 tags: [test]
 ---
 

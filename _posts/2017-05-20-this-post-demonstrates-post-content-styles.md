@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: junk
+categories: 指南和文献解读
 author: "Bart Simpson"
 meta: "Springfield"
 ---
