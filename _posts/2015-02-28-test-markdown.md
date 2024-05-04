@@ -2,7 +2,7 @@
 layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
-categories: 指南和文献解读
+categories: 指南解读
 tags: [test]
 ---
 

@@ -2,8 +2,9 @@
 layout: post
 title: Table example
 subtitle:
-categories: 生信分析与编程
+categories: 生信笔记
 tags: [table]
+author: DK
 ---
 
 ## Table example as below

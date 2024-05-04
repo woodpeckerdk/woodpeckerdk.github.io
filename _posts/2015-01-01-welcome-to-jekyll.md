@@ -2,8 +2,8 @@
 layout: post
 title: Welcome to Jekyll!
 subtitle: A awesome static site generator.
-author: Jeffrey
-categories: 生信分析与编程
+author: DK
+categories: 生信笔记
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
