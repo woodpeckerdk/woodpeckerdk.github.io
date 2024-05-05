@@ -1,11 +1,19 @@
 ---
-title: "cluster包进行GSEA分析"
+title: "clusterProfiler包进行GSEA分析"
 layout: post
 subtitle: 该包由南方医科大学生信系主任余光创老师于2012年开发，GSEA分析只是其中一项功能。
 excerpt_image: "https://s2.loli.net/2024/05/04/IxqtJrfM34o82AW.png"
 categories: 生信笔记
 tags: [R语言,富集分析,clusterProfiler,GSEA]
 author: DK
+banner:
+  image: https://s2.loli.net/2024/05/05/ynT61qvwFV7U8Bi.png
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 ---
 
 # 通过clusterProfiler包进行GSEA分析
