@@ -1,13 +1,6 @@
 ---
-layout: content
-title: 
-subtitle: 
-banner:
-  image: https://s2.loli.net/2024/05/05/VIzrUbvyBRJMc3T.png
-  opacity: 0.618
-  background: "#000"
-  height: "100vh"
-  min_height: "38vh"
+layout: post
+excerpt_image: https://s2.loli.net/2024/05/05/VIzrUbvyBRJMc3T.png
 categories: 指南解读
 tags: [test]
 ---
