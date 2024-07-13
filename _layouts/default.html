@@ -1,0 +1,48 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include navbar.html %}
+  {% include showcase.html %}
+  {% include about.html %}
+  {% include contact.html %}
+  <!--Footer begins here-->
+  {% include footer.html %}
+</body>
+<script>
+  // 获取所有具有 'navbar-item' 类名的元素
+  var navItems = document.getElementsByClassName('navbar-item');
+  // 获取所有具有 'hero' 类名的元素
+  var heroes = document.getElementsByClassName('hero');
+  // 定义视图偏移量
+  const viewOffset = 200; 
+
+  // 添加滚动事件监听器
+  window.addEventListener("scroll", function (event) {
+    // 获取当前滚动位置
+    var scroll = this.scrollY;
+    var position = window.pageYOffset;
+
+    // 移除所有导航项的 'is-active' 类
+    for (var i = 0; i < navItems.length; i++) {
+      navItems[i].classList.remove('is-active');
+    }
+
+    // 遍历所有 'hero' 元素，根据滚动位置添加 'is-active' 类
+    for (var i = 0; i < heroes.length; i++) {
+        var sectionTop = heroes[i].offsetTop-viewOffset;
+        var sectionBottom = heroes[i].offsetTop + heroes[i].offsetHeight-viewOffset;
+
+        if (scroll >= sectionTop && scroll < sectionBottom) {
+          navItems[i+1].classList.add('is-active');
+      }
+    }
+  });
+</script>
+
+</html>
