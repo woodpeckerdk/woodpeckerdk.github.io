@@ -2,6 +2,7 @@
 title: "clusterProfiler包进行GSEA分析"
 layout: post
 post-image: "https://s2.loli.net/2024/05/04/IxqtJrfM34o82AW.png"
+description: clusterProfiler包是南方医科大学余光创教授开发的R包，用于分析基因富集分析结果，包括GO富集分析、KEGG富集分析、GSEA富集分析等。本文将介绍如何使用clusterProfiler包进行GSEA分析。
 tags:
 - R语言
 - 富集分析
@@ -11,7 +12,6 @@ tags:
 
 clusterProfiler包是南方医科大学余光创教授开发的R包，用于分析基因富集分析结果，包括GO富集分析、KEGG富集分析、GSEA富集分析等。本文将介绍如何使用clusterProfiler包进行GSEA分析。
 
-# 通过clusterProfiler包进行GSEA分析
 ## 环境的配置
 
 清空环境变量，释放内存，加载包
