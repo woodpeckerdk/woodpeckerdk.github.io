@@ -10,7 +10,7 @@ layout: page
 ##### This is heading 5
 ###### This is heading 6
 
- ![testimg](/assets/images/testpage/IMG_5625.JPG)
+![IMG_5625.jpg](https://s2.loli.net/2024/07/14/CezgEirKIsl1p6T.jpg)
 
 [This is a link](#)
 
