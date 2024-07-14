@@ -10,6 +10,8 @@ layout: page
 ##### This is heading 5
 ###### This is heading 6
 
+ ![testimg](/assets/images/testpage/IMG_5625.JPG)
+
 [This is a link](#)
 
 > This is a blockquote
