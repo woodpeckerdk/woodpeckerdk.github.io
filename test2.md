@@ -1,4 +1,4 @@
 ---
-title: Test 2
+title: 项目测试
 layout: project
 ---
