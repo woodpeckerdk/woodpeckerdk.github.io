@@ -27,7 +27,7 @@
 
             <!--Link Section-->
             <div class="column has-text-white">
-                <h3>其他页面</h3>
+                <h3>建设中的项目</h3>
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
@@ -36,7 +36,7 @@
                 {% endunless %}
                 {% endfor %}
                 <li>
-                    <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">其他页面</a>
+                    <a target="_blank" href="{{sitepage.url | absolute_url}}/pages">其他页面</a>
                 </li>
             </div>
 

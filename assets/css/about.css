@@ -1,0 +1,30 @@
+#about-me {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0rem 2rem;
+  width: 50%;
+  padding-top: 8%;
+}
+
+#author-about {
+  font-weight: 300;
+  font-size: 1.3rem;
+  font-family: KaiTi;
+}
+
+.column-image {
+  margin-top: 20px;
+  width: 50%;
+  height: auto;
+}
+
+#select-image {
+  width: 100%;
+  height: auto;
+}
+
+.columns-contain-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
