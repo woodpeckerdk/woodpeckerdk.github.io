@@ -1,8 +1,14 @@
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 #about-me {
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 0rem 2rem;
-  width: 50%;
+  width: 100%;
   padding-top: 8%;
 }
 
@@ -14,7 +20,7 @@
 
 .column-image {
   margin-top: 20px;
-  width: 50%;
+  width: 30%;
   height: auto;
 }
 
