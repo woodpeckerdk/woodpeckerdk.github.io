@@ -33,3 +33,14 @@
     margin: 0rem 1.5rem 3rem 1.5rem;
     padding-top: 1px;
 }
+
+.custom-icon {
+    position: relative;
+    top: -2px;
+    zoom: 120%;
+}
+
+.custom-icon:hover {
+    transition: transform 0.2s ease-in-out;
+    transform: scale(1.2);
+}

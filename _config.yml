@@ -16,6 +16,10 @@ site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: 博客, 泌尿外科, R语言, 生物信息学
 # URL for the Image of custom Favicon
 favicon-url: https://s2.loli.net/2024/07/13/DoQZeiLaFgprNt6.png
+# 励志的话
+motto: "种下一棵树最好的时间是十年前，其次是现在。"
+# 首页：欢迎来到我的小站
+hero-title: "欢迎来到我的小站"
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -26,13 +30,9 @@ email: mnwkdengkai@163.com
 facebook_username: thedevslot
 twitter_username: woodpeckerdk
 instagram_username: thedevslot
-linkedin_username: thedevslot
 github_username:  woodpeckerdk
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+youtube_channel_id: Mrright-je7rc 
+
 
 # Google Analytics
 google-analytics: UA-163806439-1
@@ -95,3 +95,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
