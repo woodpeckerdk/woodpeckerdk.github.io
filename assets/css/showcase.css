@@ -1,6 +1,21 @@
 .title-text {
     font-family: "SimHei", sans-serif"Microsoft YaHei", "黑体", "SimHei", sans-serif;;
-    font-size: 30px;
+    font-size: 3rem;
     color: rgb(255, 255, 255);
     font-weight: bold;
 } 
+
+#has-text-important {
+    color: rgb(4, 148, 237)!important;
+}
+
+h3.sub-title-text {
+    font-family: KaiTi, sans-serif;
+    font-size: 1.5rem;
+    color: azure;
+}
+
+.small-text {
+    font-size: 0.8rem;
+    color: rgb(225, 216, 216);
+}

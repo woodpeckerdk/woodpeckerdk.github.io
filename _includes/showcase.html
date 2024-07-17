@@ -1,15 +1,12 @@
-<head>
-  <link rel="stylesheet" href="../assets/css/showcase.css">
-</head>
+<link rel="stylesheet" href="../assets/css/showcase.css">
 <section class="hero is-fullheight has-text-centered" id="hero">
   <div class="hero-body">
     <div class="container">
       <h1 class="title-text">
         {{site.motto}}
       </h1><br>
-      <h3 class="subtitle has-text-white-bis is-uppercase has-text-weight-medium is-marginless">
-        {{site.hero-title}}
-      </h3>
+      <h3 class="sub-title-text">欢迎来到<span id="has-text-important">DK</span>的小站</h3>
+       <p class="small-text">最近更新：{{site.time | date: '%Y-%m-%d'}} <p>
       <hr>
       <a href="{{site.url}}{{site.baseurl}}/#about"
         class="button is-white is-rounded is-outlined is-uppercase has-text-weight-normal">随便逛逛</a>
