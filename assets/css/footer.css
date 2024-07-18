@@ -11,6 +11,11 @@
     width: 100%;
 }
 
+#left-section {
+    display: flex;
+    width: 100%;
+}
+
 #name_section {
     width: 500px;
     height: auto;
@@ -21,14 +26,16 @@
 #blog_section {
     width: 500px;
     height: auto;
+    margin-left: 18%;
 }
 
 #blog_section h3 {
-    color:rgb(106, 109, 109);
+    color:rgb(215, 227, 227);
 }
 
 #blog_section li a {
     color:rgb(106, 109, 109);
+    text-align: center;
 }
 
 #blog_section li a:hover {
