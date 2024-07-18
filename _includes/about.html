@@ -1,29 +1,23 @@
 <section class="hero is-fullheight has-text-centered has-background-white-ter" id="about">
-    <div class="hero-body">
-        <div class="container">
+        <div class="about-container">
+            <div class="columns">   
+                <figure class="author-image">
+                    <img id="author_image" src="{{site.author-image}}" alt="{{site.author-name}}">
+                </figure>
+            </div>
             <div class="columns">
-                <div class="column-image">
-                    <figure class="image">
-                        <img class="is-rounded" style="border: none;" src="{{site.author-image}}" alt="{{site.author-name}}">
-                    </figure>
-                </div>
-                <div class="columns-contain-text">
-                    <div id="about-me">
-                        <!-- <p id="author-about">{{site.author-about}}</p> -->
+                <div id="about-me">
                         <p id="author-about">醉舞经阁半卷书，坐井说天阔。<br>待到囊中羞涩时，怒指乾坤错。<br>
                                              欲游山河十万里，伴吾共蹉跎。<br>阅遍天下人无数，知音有几个？</p>
-                        <br>
-                    </div>
-                </div>
-                <div class="column-image">
-                    <figure class="image">
-                        <h3>每日一图</h3>
-                        <img alt="select-image" id="select-image" src="../assets/images/testpage/trump.jpg"/>
-                    </figure>
                 </div>
             </div>
+            <div class="columns">
+                <figure class="daily-image">
+                    <h3>每日一图</h3>
+                    <img id="daily-image" src="../assets/images/testpage/trump.jpg"/>
+                </figure>
+            </div> 
         </div>
-    </div>
 </section>
 
 <link rel="stylesheet" href="../assets/css/about.css">

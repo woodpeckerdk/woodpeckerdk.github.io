@@ -1,19 +1,30 @@
 .hero-body {
   margin-top: 5%;
 }
+.about-container {
+  margin-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5% 20px;
+  justify-content: center;
+}
 
 .columns {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  width: fit-content;
+  height: auto;
 }
 
 #about-me {
   margin-top: 50px;
   margin-bottom: 50px;
-  padding: 0rem 2rem;
-  width: 100%;
+  padding:1rem;
+  width: 500px;
+  height: auto;
   padding-top: 8%;
+  text-align: center;
 }
 
 #author-about {
@@ -22,24 +33,31 @@
   font-family: KaiTi;
 }
 
-.column-image {
-  margin-top: 20px;
-  width: auto;
-  height: 30%;
+.author-image {
+  width: 200px;
+  height: auto;
+  align-content: center;
 }
 
-.column-image-inner {
-  width: 100%;
+#author_image {
+  width: 200px;
   height: auto;
-} 
+  border-radius: 50%;
+  margin-right: 10px;
+}
 
-#select-image {
-  width: 100%;
+.daily-image {
+  width: 400px;
   height: auto;
 }
 
-.columns-contain-text {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+#daily-image {
+  width: 400px;
+  height: auto;
+  border: none;
+}
+
+.daily-image h3 {
+  font-size: 1.2rem;
+  text-align: center;
 }
