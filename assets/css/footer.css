@@ -1,0 +1,47 @@
+#footer-main {
+    display: flex;
+    
+}
+
+#footer-columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+#name_section {
+    width: 500px;
+    height: auto;
+    align-content: center;
+    justify-content: center;
+}
+
+#blog_section {
+    width: 500px;
+    height: auto;
+}
+
+#blog_section h3 {
+    color:rgb(106, 109, 109);
+}
+
+#blog_section li a {
+    color:rgb(106, 109, 109);
+}
+
+#blog_section li a:hover {
+    color:rgb(236, 143, 30);
+}
+
+#name_text {
+    font-size: 24px;
+    font-weight: bold;
+    color:rgb(106, 109, 109);
+}
+
+#author_image {
+    justify-content: center;
+    align-items: center;
+}
