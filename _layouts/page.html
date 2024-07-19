@@ -5,18 +5,18 @@ layout: compress
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-
+<link rel="stylesheet" href="{{ site.url }}/assets/css/page.css">
 <body>
     {% include navbar.html %}
     <section class="hero is-fullheight">
         <div class="hero-body">
             <div class="container has-text-centered" id="page-section">
                 <div class="section">
-                    <h1 class="title is-1 is-uppercase has-text-weight-bold">
+                    <h1 class="page_title">
                         {{page.title}}
                     </h1>
                     <hr class="has-background-black">
-                    <div class="content is-marginless">
+                    <div class="content is-marginless" id="page_content">
                         {{ content }}
                     </div>
                 </div>

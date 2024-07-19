@@ -9,7 +9,7 @@
                 <!-- {{ post.content | truncate: 200 | strip_html | strip_newlines | strip | escape }} -->
                 {{ post.description }}
                 <hr class="has-background-grey">
-                <span class="has-text-grey">Published on <span class="has-text-weight-semibold">{{ post.date | date: "%-B %d, %Y" }}</span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold">{% assign chars = post.content | strip_html | strip_newlines | strip | size %}{%- unless chars == 0 -%}{{ chars | divided_by:300 }} min{% endunless %}</span> read
+                <span class="has-text-grey">Published on <span class="has-text-weight-semibold has-text-link">{{ post.date | date: "%-B %d, %Y" }}</span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold has-text-link">{% assign chars = post.content | strip_html | strip_newlines | strip | size %}{%- unless chars == 0 -%}{{ chars | divided_by:300 }} min{% endunless %}</span> read
             </div>
         </div>
     </a>

@@ -7,6 +7,17 @@ layout: compress
 
 <head>
     {% include head.html %}
+    <style>
+        .section h1 {
+            font-size: 2rem;
+            color: rgb(9, 111, 174);
+            font-weight: 500;
+        }
+        .section p {
+            text-align: left;
+            font-size: 1.2rem;
+        }
+    </style>
 </head>
 
 <body>
@@ -17,7 +28,8 @@ layout: compress
         <div class="hero-body">
             <div class="container has-text-centered">
                 <div class="section">
-                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">一些照片</p>
+                    <h1>{{page.title-text}}</h1>
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">{{content}}</p>
                 </div>
                 {% include project-card.html %}
             </div>
@@ -27,6 +39,7 @@ layout: compress
 
     <!--Footer-->
     {% include footer.html %}
+    
 </body>
 
 </html>
