@@ -10,20 +10,18 @@
 </div>
     <div class="hero-body">
         <div class="container">
-            {% unless site.email == %}
-            <a id="contact-button" href="mailto:{{site.email}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fas fa-envelope"></i>Send me an Email
+            <!-- {% unless site.email == %} -->
+            <a id="contact-button" href="{{site.url}}{{site.baseurl}}/#"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths">
+                <i class="fas fa-home" style="color: #00bfff;"></i>回到首页
             </a>
-            {% endunless %}
-            {% unless site.twitter_username == %}
-            <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fab fa-twitter"></i>Tweet me on Twitter
+            <!-- {% endunless %} -->
+            <!-- {% unless site.twitter_username == %} -->
+            <a id="contact-button" href="{{site.url}}{{site.baseurl}}/blog/"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths">
+                <i class="fas fa-pen-nib" style="color: #00bfff;"></i>浏览笔记
             </a>
-            {% endunless %}
+            <!-- {% endunless %} -->
             <hr>
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
                 你可以通过以下方式联系我
