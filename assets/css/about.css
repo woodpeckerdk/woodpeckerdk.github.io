@@ -21,7 +21,7 @@
 #about-me {
   margin: 50px 20px;
   width: 100%;
-  height: auto;
+  height: auto; 
   text-align: left;
   display: flex;
 }
