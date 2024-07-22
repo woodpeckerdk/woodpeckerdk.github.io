@@ -2,10 +2,10 @@
   margin-top: 5%;
 }
 .about-container {
-  margin-top: 10%;
+  margin: 5% 1%;
   display: flex;
   flex-wrap: wrap;
-  padding: 5% 20px;
+  padding: 5% 1px;
   justify-content: center;
 }
 
@@ -13,30 +13,31 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  width: fit-content;
+  width: 800px;
   height: auto;
+  margin: 5px 1%;
 }
 
 #about-me {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  padding:1rem 3rem ;
-  width: 500px;
+  margin: 50px 20px;
+  width: 100%;
   height: auto;
-  padding-top: 8%;
-  text-align: center;
+  text-align: left;
+  display: flex;
 }
 
 #author-about {
   font-weight: 300;
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-family: KaiTi;
 }
+
 
 .author-image {
   width: 200px;
   height: auto;
   align-content: center;
+  margin-top: 30px;
 }
 
 #author_image {
@@ -49,12 +50,14 @@
 .daily-image {
   width: 400px;
   height: auto;
+  margin-top: 40px;
 }
 
 #daily-image {
-  width: 400px;
+  width: 350px;
   height: auto;
   border: none;
+  margin-top: 10px;
 }
 
 .daily-image h3 {

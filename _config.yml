@@ -1,13 +1,11 @@
 # WhatATheme
-markdown: kramdown
-
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
 # Title of the Site
-title: DengKai
+title: DK的小站
 # Description of the Site
 description: 种下一棵树最好的时间是十年前，其次是现在。
 # URL of Image of the Site
