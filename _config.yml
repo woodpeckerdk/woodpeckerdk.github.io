@@ -1,9 +1,11 @@
+markdown: kramdown
 # WhatATheme
 # URL of the Site
-url: ''
+url: "https://dengkai.fun"
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
-
+baseurl: ""
+host: 127.0.0.1
+port: 4000
 # Title of the Site
 title: DK的小站
 # Description of the Site
