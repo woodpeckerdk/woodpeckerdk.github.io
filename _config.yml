@@ -73,7 +73,7 @@ defaults:
       type: 'posts'
     values:
       layout: post
-      post-image: ""
+      post-image: "https://sm.ms/image/B7PZIuWbKX3hzN9"
       description: ""
       tags:
         - ""
