@@ -110,7 +110,10 @@ a.navbar-item.is-active {
     .hero-body {
         padding: 3rem 0.25rem 1rem 0.25rem;
     }
-    
+   
+    #blog_heading_text {
+        font-family: 'KaiTi';
+    }
 
     .container {
         margin: 1.5rem auto;
@@ -261,6 +264,16 @@ a.navbar-item.is-active {
 }
 
 #project {
+    .hero-body {
+        margin: auto 10vmax;
+    }
+    @media screen and (max-width: 768px) {
+        .hero-body {
+            margin: 0 2%;
+            padding: auto 2%;
+        }
+        
+    }
     .columns {
         .column {
             border-radius: 0.5rem;
@@ -366,6 +379,9 @@ a.navbar-item.is-active {
 }
 
 #page-section {
+    h1 {
+        font-family: "KaiTi";
+    }
     .content {
         ul, ol, blockquote {
             display: inline-block;

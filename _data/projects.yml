@@ -1,10 +1,10 @@
 
-- name: 精选单色
-  image: https://p8.itc.cn/images01/20230613/135b7dd786754c0d95821587f3ea399f.png
-  link: https://nipponcolors.com/
-  description: 一个小日子的网站，可以选择一些好看的单色，配合后面的颜色搭配网站使用。
+- name: 临江仙（滚滚长江东逝水）
+  image: https://static.yczihua.com/images/201707/goods_img/7531_P_1499880715352.jpg
+  link: /other/临江仙.html
+  description: <br>古今多少事，都付笑谈中。
 - name: color-hex颜色搭配
-  link: https://www.colorhexa.com/
+  link: /other/2024-07-27-Seurat单细胞分析学习笔记.html
   image: https://www.color-hex.com/palettes/895.png
   description: 输入一种颜色，网站会给出一系列配色方案，可以选择喜欢的颜色搭配。
 - name: Adobe Color 官方网站
