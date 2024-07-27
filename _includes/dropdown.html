@@ -3,13 +3,13 @@
         更多
     </a>
     <div class="navbar-dropdown has-background-black is-left">
-        {% for sitepage in site.html_pages %}
-        {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/blog' %}
-        <a href="{{sitepage.url | absolute_url}}"
-            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url  %}is-active{% endif %}">
-            {{sitepage.title}}
+        {% for page in site.pages %}
+        {% if page.path contains "pages/" %}
+        <a href="{{page.url | absolute_url}}"
+            class="navbar-item has-text-grey-light {% if page.path contains page.url | absolute_url  %}is-active{% endif %}">
+            {{page.title}}
         </a>
-        {% endunless %}
+        {% endif %}
         {% endfor %}
         <!-- <hr class="navbar-divider">
     <a class="navbar-item">

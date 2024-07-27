@@ -62,6 +62,7 @@ plugins:
 # Permalink
 permalink: "blog/:title"
 
+
 # Compress
 compress_html:
   clippings: all

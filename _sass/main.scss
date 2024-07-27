@@ -5,7 +5,7 @@
 // 设置整个文档的基本样式
 html,
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Times New Roman', sans-serif;
     scroll-behavior: smooth !important;
     transition: all 0.25s ease; /* 定义元素过渡效果 */
 }
@@ -14,27 +14,27 @@ body {
 // 自定义滚动条样式
 /* width */
 ::-webkit-scrollbar {
-    width: 0.5vmax !important;
+    width: 0.8vmax !important;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: white !important;
+    background: rgb(5, 5, 5) !important;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #363636 !important;
+    background: #c6c4c4 !important;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: black !important;
+    background: rgba(211, 143, 7, 0.938) !important;
 }
 
-// 占位符样式
+// 搜索框内占位符样式
 ::placeholder {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'KaiTi', sans-serif;
 }
 
 // 导航栏样式

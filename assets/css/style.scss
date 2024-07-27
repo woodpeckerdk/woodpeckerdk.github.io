@@ -106,9 +106,11 @@ a.navbar-item.is-active {
 }
 
 #blog {
+    margin: 0 10vmax;
     .hero-body {
         padding: 3rem 0.25rem 1rem 0.25rem;
     }
+    
 
     .container {
         margin: 1.5rem auto;
@@ -152,6 +154,8 @@ a.navbar-item.is-active {
 
         .title {
             margin: 0.5rem !important;
+            font-size: 1.5rem !important;
+            color: rgb(23, 114, 199);
         }
 
         .content {
@@ -290,7 +294,7 @@ a.navbar-item.is-active {
 
 #post {
     @media (min-width: 768px) {
-        margin: auto 2.5vmax;
+        margin: auto 20vmax;
     }
     a {
         text-decoration: underline;
@@ -316,11 +320,27 @@ a.navbar-item.is-active {
         margin: 0.15rem auto;
     }
     .content {
+        h1 {
+            font-size: 1.75rem;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+        }
+
+        h3 {
+            font-size: 1.25rem;
+        }
+        strong {
+            color: rgb(240, 147, 24);
+        }
+
+
         ol, ul, blockquote {
             display: inline-block;
         }
         hr{
-            background-color: grey;
+            background-color: rgb(128, 128, 128);
         }
         img, iframe {
             max-width: calc(100% - 25vw);
