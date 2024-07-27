@@ -30,12 +30,16 @@
 }
 
 #blog_section h3 {
-    color:rgb(215, 227, 227);
+    color:rgb(9, 124, 170);
+    font-size: 1rem;
+    font-family: 'KaiTi';
 }
 
 #blog_section li a {
-    color:rgb(106, 109, 109);
+    color:rgb(209, 214, 214);
     text-align: center;
+    font-size: 1rem;
+    font-family: 'KaiTi';
 }
 
 #blog_section li a:hover {
@@ -45,10 +49,15 @@
 #name_text {
     font-size: 24px;
     font-weight: bold;
-    color:rgb(106, 109, 109);
+    color:rgb(215, 217, 217);
 }
 
 #author_image {
     justify-content: center;
     align-items: center;
+}
+
+#motto {
+    font-family: 'KaiTi';
+    font-size: 1rem;
 }

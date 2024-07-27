@@ -107,6 +107,10 @@ a.navbar-item.is-active {
 
 #blog {
     margin: 0 10vmax;
+@media screen and (max-width: 768px) {
+    margin: 0 2%;
+    
+}
     .hero-body {
         padding: 3rem 0.25rem 1rem 0.25rem;
     }
@@ -264,13 +268,18 @@ a.navbar-item.is-active {
 }
 
 #project {
+    margin: 0 3vmax;
+@media screen and (max-width: 768px) {
+    margin: 0 2%;
+    
+}
     .hero-body {
-        margin: auto 10vmax;
+        margin: 3rem 0vmax;
     }
     @media screen and (max-width: 768px) {
         .hero-body {
-            margin: 0 2%;
-            padding: auto 2%;
+            margin: 0 0;
+            padding: 0 0;
         }
         
     }

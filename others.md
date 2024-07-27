@@ -1,6 +1,6 @@
 ---
 title: others
 layout: project
-title-text: 颜色类网站导航
+title-text: 'YOLO: You Only Live Once'
 ---
 
