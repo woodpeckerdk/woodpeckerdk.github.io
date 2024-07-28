@@ -14,22 +14,22 @@ body {
 // 自定义滚动条样式
 /* width */
 ::-webkit-scrollbar {
-    width: 0.8vmax !important;
+    width: 0.3vmax !important;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: rgb(5, 5, 5) !important;
+    background: rgb(228, 223, 223) !important;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #c6c4c4 !important;
+    background: #787575 !important;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(211, 143, 7, 0.938) !important;
+    background: rgba(141, 140, 137, 0.938) !important;
 }
 
 // 搜索框内占位符样式
