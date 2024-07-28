@@ -8,7 +8,7 @@
   image: https://www.color-hex.com/palettes/895.png
   description: 输入一种颜色，网站会给出一系列配色方案，可以选择喜欢的颜色搭配。
 - name: Adobe Color 官方网站
-  link: https://color.adobe.com/zh/create/color-wheel
+  link: /other/透明.html
   image: https://static.wixstatic.com/media/39796f_9790bad773fe4a3093a5a387ae9faff4~mv2.jpg/v1/fill/w_1110,h_624,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/39796f_9790bad773fe4a3093a5a387ae9faff4~mv2.jpg
   description: Adobe Color 官方网站,可以色轮配色，提取图像颜色，提取渐变色等，功能非常强大，但需要科学上网。
 - name: Coolors随机生成颜色搭配
