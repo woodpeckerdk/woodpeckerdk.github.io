@@ -1,31 +1,35 @@
 <footer id="footer">
     <!--Footer Main Section-->
-    <div class="has-background-grey-darker" id="footer-main">
-        <div  id="footer-columns">
-            <!--Name Section-->
-            <div  id="name_section">
-                    <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet" id="left-section">
+    <div class="has-background-grey-darker has-text-white has-text-align-left" id="footer-main">
+        <!--Name Section-->
+        <div class="container columns has-marginless">
+            <div class="column is-half-desktop has-centered-content" >
+                <div class="columns container">
+                    <div class="column is-one-fifth">
                         <figure class="image is-64x64">
                             <a href="{{site.url}}{{site.baseurl}}/#about">
                                 <img class="is-rounded" src="{{site.author-image}}">
                             </a>
                         </figure>
-                        <div class="column is-marginless">
-                                <img src="https://img.shields.io/badge/Dont_Worry-Be_Happy-blue">
-                            <div class="content has-text-grey">
-                                <p id="motto">种下一棵树最好的时间是十年前，其次是现在。</p>
-                            </div>
+                    </div>
+                    <div class="column is-four-fifths">
+                            <img src="https://img.shields.io/badge/Dont_Worry-Be_Happy-blue">
+                        <div class="content has-text-grey">
+                            <p class="has-text-white is-size-8" id="motto">种下一棵树最好的时间是十年前，其次是现在。</p>
                         </div>
                     </div>
+                </div>
             </div>
             <!--Blog-post Section-->
-            <div id="blog_section">
-                <h3>最近的文章</h3>
-                {% for post in site.posts offset: 0 limit:3 %}
-                <li>
-                    <a href="{{post.url | absolute_url}}">{{post.title}}</a>
-                </li>
-                {% endfor %}
+            <div class="column is-half-desktop">
+                <div class="container">
+                    <h3>最近的文章</h3>
+                    {% for post in site.posts offset: 0 limit:3 %}
+                    <li >
+                        <a class="has-text-info is-size-9" href="{{post.url | absolute_url}}">{{post.title}}</a>
+                    </li>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </div>
@@ -35,8 +39,7 @@
         &nbsp;&nbsp;
         <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2024090300号-1</a>
         &nbsp;&nbsp;
-         DK的个人网站&nbsp;
-         POWED BY <a href="https://x.com/woodpeckerdk" target="_blank" rel="noopener noreferrer">JEKYLL</a>
+            DK的个人网站&nbsp;
+            POWED BY <a href="https://x.com/woodpeckerdk" target="_blank" rel="noopener noreferrer">JEKYLL</a>
     </div>
 </footer>
-<link rel="stylesheet" href="../assets/css/footer.css"
