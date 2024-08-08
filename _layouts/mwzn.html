@@ -1,0 +1,29 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>泌外指南</title>
+    <link rel="stylesheet" href="../assets/css/泌外指南笔记合集.css">
+</head>
+<body>
+  {% include navbar.html %}
+  <section class="hero is-info is-medium">
+    <div class="hero-body has-text-centered">
+          <p class="is-size-3 has-text-weight-bold">中国泌尿外科和男科疾病诊断治疗指南</p>
+          <p class="is-size-5 has-text-weight-bold">指南合集</p>
+    </div>
+  </section>
+  <!-- 主体部分 -->
+   <section id="main">
+     <div class="container">
+         {% include mnzn-card.html %}
+    </div>
+   </section>
+  {% include footer.html %}
+</body>
+</html>

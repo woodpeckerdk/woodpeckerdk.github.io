@@ -1,0 +1,23 @@
+---
+---
+@charset "utf-8"; /* 声明字符编码为 UTF-8。*/ 
+@import url('https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css');
+// 泌外指南笔记
+#main>.container {
+    max-width: 100%;
+    padding: 3rem 0;
+}
+
+
+#mnzn-card {
+    width: 30%;
+    height: auto;
+@media screen and (max-width: 1023px) {
+    width:46%;
+    height: auto;
+  }
+@media screen and (max-width: 768px) {
+    width:100%;
+    height: auto;
+}
+}

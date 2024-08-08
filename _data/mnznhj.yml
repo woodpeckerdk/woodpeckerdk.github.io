@@ -1,0 +1,49 @@
+- name: 膀胱尿路上皮癌
+  image: "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170913/ac337d538fcb42fba569d3532abe5351.jpeg" 
+  items:
+    - text: 1.膀胱癌的流行病学和病因学
+      url: https://dengkai.fun/blog/%E8%86%80%E8%83%B1%E7%99%8C%E7%9A%84%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E5%92%8C%E7%97%85%E5%9B%A0%E5%AD%A6
+    - text: 2.膀胱癌的组织病理学
+      url: https://dengkai.fun/blog/%E8%86%80%E8%83%B1%E7%99%8C%E7%9A%84%E7%BB%84%E7%BB%87%E7%97%85%E7%90%86%E5%AD%A6
+    - text: 3.膀胱癌的诊断
+      url: ""
+    - text: 4.非肌层浸润性膀胱癌的治疗及随访
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+    - text: 5.肌层浸润性膀胱癌的手术治疗
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+    - text: 6.肌层浸润性膀胱癌的化疗和放疗
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+
+- name: 前列腺癌
+  image: /assets/images/bg/PCa.webp
+  items:
+    - text: 1.膀胱癌的流行病学和病因学
+      url: https://dengkai.fun/blog/%E8%86%80%E8%83%B1%E7%99%8C%E7%9A%84%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E5%92%8C%E7%97%85%E5%9B%A0%E5%AD%A6
+    - text: 2.膀胱癌的组织病理学
+      url: https://dengkai.fun/blog/%E8%86%80%E8%83%B1%E7%99%8C%E7%9A%84%E7%BB%84%E7%BB%87%E7%97%85%E7%90%86%E5%AD%A6
+    - text: 3.膀胱癌的诊断
+      url: ""
+    - text: 4.非肌层浸润性膀胱癌的治疗及随访
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+    - text: 5.肌层浸润性膀胱癌的手术治疗
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+    - text: 6.肌层浸润性膀胱癌的化疗和放疗
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+
+- name: 肾癌
+  image: /assets/images/bg/肾癌.png
+  items:
+    - text: 1.膀胱癌的流行病学和病因学
+      url: https://dengkai.fun/blog/%E8%86%80%E8%83%B1%E7%99%8C%E7%9A%84%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E5%92%8C%E7%97%85%E5%9B%A0%E5%AD%A6
+    - text: 2.膀胱癌的组织病理学
+      url: https://dengkai.fun/blog/%E8%86%80%E8%83%B1%E7%99%8C%E7%9A%84%E7%BB%84%E7%BB%87%E7%97%85%E7%90%86%E5%AD%A6
+    - text: 3.膀胱癌的诊断
+      url: ""
+    - text: 4.非肌层浸润性膀胱癌的治疗及随访
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+    - text: 5.肌层浸润性膀胱癌的手术治疗
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+    - text: 6.肌层浸润性膀胱癌的化疗和放疗
+      url: https://dengkai.fun/blog/%E9%9D%9E%E8%82%8C%E5%B1%82%E6%B5%B8%E6%B6%A6%E6%80%A7%E5%B0%BF%E8%B7%AF%E4%B8%8A%E7%9A%AE%E7%99%8CNMIBC%E7%9A%84%E6%B2%BB%E7%96%97
+
+

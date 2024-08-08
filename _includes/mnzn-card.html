@@ -1,0 +1,21 @@
+<div class="columns is-centered is-multiline is-mobile">
+  {% for mnzn in site.data.mnznhj %}
+    <div class="column has-text-centered is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
+      id="mnzn-card">
+      <div class="card-containter box">
+            <figure class="image is-16by9" id="image16by9">
+                <img src="{{mnzn.image}}" alt="{{mnzn.name}}">
+            </figure>
+            <div class="card-content">
+            <h1 class="title is-size-4">{{mnzn.name}}</h1>
+            <ul>
+                {% for item in mnzn.items %}
+                  <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+                {% endfor %}
+            </ul>
+            </div>
+      </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
