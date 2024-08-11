@@ -59,6 +59,9 @@ a.navbar-item.is-active {
         opacity: 0.25;
         content: "";
     }
+    h3 {
+        font-family: KaiTi;
+    }
 }
 .title {
     margin: auto 0.75rem!important;
@@ -215,7 +218,7 @@ a.navbar-item.is-active {
         line-height: 1.25;
 
         .column {
-            display: grid;
+            display: block;
             justify-content: center;
 
             li {
