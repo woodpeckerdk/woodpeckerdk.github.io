@@ -3,19 +3,19 @@
   link: /other/泌外指南笔记合集.html
   image: /assets/images/bg/泌外指南封面-宽屏幕.jpg
   description: 泌尿外科疾病诊疗指南笔记合集，定个小目标，希望能有始有终，做完整个指南的笔记。
-- name: 临江仙（滚滚长江东逝水）
-  image: https://static.yczihua.com/images/201707/goods_img/7531_P_1499880715352.jpg
-  link: /other/临江仙.html
-  description: <br>古今多少事，都付笑谈中。
-- name: Typora报刊主题
-  link: /other/2024-07-27-Seurat单细胞分析学习笔记.html
-  image: https://img1.baidu.com/it/u=3836432016,1187974249&fm=253&fmt=auto&app=138&f=JPEG?w=885&h=500
-  description: <br>报刊主题是Typora自带的一个主题。
-- name: Typora主题-毛玻璃效果
-  link: /other/透明.html
-  image: https://t9.baidu.com/it/u=2264784588,2785386137&fm=193
-  description: <br>Typora主题有比较多好看的主题可以免费下载和借鉴。
-- name: Shields.io彩色小牌子
-  link: https://shields.io/badges
-  image: https://th.bing.com/th/id/R.d7e7eb3a1f4e33220ddddc5ec2066940?rik=qz05KnQbY6l25A&pid=ImgRaw&r=0
-  description: 美化github文档，或者一般的markdown文档，在网页博客中加入一些修饰作用的彩色小牌子。
+- name: R语言学习笔记合集（建设中...）
+  link: 
+  image: /assets/images/bg/R语言.jpg
+  description: <br>挖坑待填...
+- name: Python学习笔记合集（建设中...）
+  link: 
+  image: /assets/images/bg/bcg_python_banner.jpg
+  description: <br>挖坑待填...
+- name: 卫生统计学合集（建设中...）
+  image: /assets/images/bg/医学统计学.png
+  link: 
+  description: <br>挖坑待填...
+- name: 日记杂谈（建设中...）
+  link: 
+  image: /assets/images/bg/日记杂谈.jpg
+  description: <br>挖坑待填...
