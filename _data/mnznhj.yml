@@ -28,7 +28,9 @@
     - text: 5.复发性前列腺癌的治疗与随访
       url: http://dengkai.fun/blog/%E5%A4%8D%E5%8F%91%E6%80%A7%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%9A%84%E6%B2%BB%E7%96%97%E9%9A%8F%E8%AE%BF
     - text: 6.转移性前列腺癌的治疗与随访
-      url: y
+      url: http://dengkai.fun/blog/%E8%BD%AC%E7%A7%BB%E6%80%A7%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%9A%84%E6%B2%BB%E7%96%97%E9%9A%8F%E8%AE%BF
+    - text: 7.去势抵抗性前列腺癌的治疗
+      url: http://dengkai.fun/blog/%E5%8E%BB%E5%8A%BF%E6%8A%B5%E6%8A%97%E6%80%A7%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8CCRPC%E7%9A%84%E6%B2%BB%E7%96%97
 
 - name: 肾癌
   image: /assets/images/bg/肾癌.png
