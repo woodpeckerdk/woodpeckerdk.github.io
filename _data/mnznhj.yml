@@ -18,19 +18,19 @@
   image: /assets/images/bg/PCa.webp
   items:
     - text: 1.前列腺癌的流行病学和病因学
-      url: https://dengkai.fun/blog/%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%9A%84%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E5%92%8C%E7%97%85%E5%9B%A0%E5%AD%A6
+      url: ../../postButHide/2024-08-07-前列腺癌的流行病学和病因学.html
     - text: 2.前列腺癌的病理类型
-      url: https://dengkai.fun/blog/%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%97%85%E7%90%86%E7%B1%BB%E5%9E%8B%E5%8F%8A%E8%AF%8A%E6%96%AD
+      url: ../../postButHide/2024-08-08-前列腺癌病理类型及诊断.html
     - text: 3.前列腺癌的诊断和TNM分期
-      url: https://dengkai.fun/blog/%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%9A%84%E8%AF%8A%E6%96%AD%E5%92%8C%E5%88%86%E6%9C%9F
+      url: ../../postButHide/2024-08-19-前列腺癌的诊断和分期.html
     - text: 4.局限性及局部进展期前列腺癌的治疗与随访
-      url: https://dengkai.fun/blog/%E5%B1%80%E9%99%90%E6%80%A7%E5%8F%8A%E5%B1%80%E9%83%A8%E8%BF%9B%E5%B1%95%E6%80%A7%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%9A%84%E6%B2%BB%E7%96%97%E4%B8%8E%E9%9A%8F%E8%AE%BF
+      url: ../../postButHide/2024-08-20-局限性及局部进展性前列腺癌的治疗与随访.html
     - text: 5.复发性前列腺癌的治疗与随访
-      url: http://dengkai.fun/blog/%E5%A4%8D%E5%8F%91%E6%80%A7%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%9A%84%E6%B2%BB%E7%96%97%E9%9A%8F%E8%AE%BF
+      url: ../../postButHide/2024-08-21-复发性前列腺癌的治疗随访.html
     - text: 6.转移性前列腺癌的治疗与随访
-      url: http://dengkai.fun/blog/%E8%BD%AC%E7%A7%BB%E6%80%A7%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%9A%84%E6%B2%BB%E7%96%97%E9%9A%8F%E8%AE%BF
+      url: ../../postButHide/2024-08-21-转移性前列腺癌的治疗随访.html
     - text: 7.去势抵抗性前列腺癌的治疗
-      url: http://dengkai.fun/blog/%E5%8E%BB%E5%8A%BF%E6%8A%B5%E6%8A%97%E6%80%A7%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8CCRPC%E7%9A%84%E6%B2%BB%E7%96%97
+      url: ../../postButHide/2024-08-24-去势抵抗性前列腺癌CRPC的治疗.html
 
 - name: 肾癌
   image: /assets/images/bg/肾癌.png
@@ -60,20 +60,20 @@
   image: https://picx.zhimg.com/v2-43d71b04159846c4b3dc9d143b989b87_1440w.jpg?source=172ae18b
   items:
     - text: 1.泌尿系统感染诊断治疗指南（概述）
-      url: https://dengkai.fun/blog/%E6%B3%8C%E5%B0%BF%E7%B3%BB%E7%BB%9F%E6%84%9F%E6%9F%93%E6%A6%82%E8%AE%BA
+      url: ../../postButHide/2024-09-08-泌尿系统感染概论.html
     - text: 2.无症状菌尿
-      url: https://dengkai.fun/blog/%E6%97%A0%E7%97%87%E7%8A%B6%E8%8F%8C%E5%B0%BF
+      url: ../../postButHide/2024-09-17-无症状菌尿.html
     - text: 3.非复杂性尿路感染
-      url: https://dengkai.fun/blog/%E9%9D%9E%E5%A4%8D%E6%9D%82%E6%80%A7%E5%B0%BF%E8%B7%AF%E6%84%9F%E6%9F%93
+      url: ../../postButHide/2024-09-17-非复杂性尿路感染.html
     - text: 4.反复发作尿路感染
-      url: https://dengkai.fun/blog/%E5%8F%8D%E5%A4%8D%E5%8F%91%E4%BD%9C%E5%B0%BF%E8%B7%AF%E6%84%9F%E6%9F%93
+      url: ../../postButHide/2024-09-17-反复发作尿路感染.html
     - text: 5.复杂性尿路感染
-      url: https://dengkai.fun/blog/%E5%A4%8D%E6%9D%82%E6%80%A7%E5%B0%BF%E8%B7%AF%E6%84%9F%E6%9F%93
+      url: ../../postButHide/2024-09-17-复杂性尿路感染.html
     - text: 6.导管相关尿路感染
-      url: https://dengkai.fun/blog/%E5%AF%BC%E7%AE%A1%E7%9B%B8%E5%85%B3%E7%9A%84%E5%B0%BF%E8%B7%AF%E6%84%9F%E6%9F%93
+      url: ../../postButHide/2024-09-17-导管相关的尿路感染.html
     - text: 7.尿脓毒血症
-      url: https://dengkai.fun/blog/%E5%B0%BF%E8%84%93%E6%AF%92%E8%A1%80%E7%97%87
+      url: ../../postButHide/2024-09-17-尿脓毒血症.html
     - text: 8.念珠菌尿路感染
-      url: https://dengkai.fun/blog/%E5%BF%B5%E7%8F%A0%E8%8F%8C%E5%B0%BF%E8%B7%AF%E6%84%9F%E6%9F%93
+      url: ../../postButHide/2024-09-17-念珠菌尿路感染.html
     - text: 9.泌尿外科抗菌药物应用指南
-      url: https://dengkai.fun/blog/%E6%B3%8C%E5%B0%BF%E5%A4%96%E7%A7%91%E6%8A%97%E8%8F%8C%E8%8D%AF%E7%89%A9%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97
+      url: ../../postButHide/2024-09-17-泌尿外科抗菌药物应用指南.html
