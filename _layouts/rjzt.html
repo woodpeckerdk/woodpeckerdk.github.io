@@ -1,0 +1,29 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日记杂谈</title>
+    <link rel="stylesheet" href="{{baseurl}}/assets/css/泌外指南笔记合集.css">
+</head>
+<body>
+  {% include navbar.html %}
+  <section class="hero is-warning is-medium">
+    <div class="hero-body has-text-centered">
+          <p class="is-size-3 has-text-weight-bold">日记杂谈</p>
+          <p class="is-size-5 has-text-weight-bold">许上等愿，结中等缘，享下等福</p>
+    </div>
+  </section>
+  <!-- 主体部分 -->
+   <section id="main">
+     <div class="container">
+         {% include rjzt-card.html %}
+    </div>
+   </section>
+  {% include footer.html %}
+</body>
+</html>

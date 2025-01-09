@@ -1,6 +1,6 @@
 
 - name: 泌尿外科指南笔记合集
-  link: /other/泌外指南笔记合集.html
+  link: /other/泌外指南笔记合集
   image: /assets/images/bg/泌外指南封面-宽屏幕.jpg
   description: 泌尿外科疾病诊疗指南笔记合集，定个小目标，希望能有始有终，做完整个指南的笔记。
 - name: R语言学习笔记合集（建设中...）
@@ -15,7 +15,7 @@
   image: /assets/images/bg/医学统计学.png
   link: 
   description: <br>挖坑待填...
-- name: 日记杂谈（建设中...）
-  link: 
+- name: 日记杂谈
+  link: /other/日记杂谈
   image: /assets/images/bg/日记杂谈.jpg
-  description: <br>挖坑待填...
+  description: <br>人生感悟<br>生活杂谈

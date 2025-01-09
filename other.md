@@ -1,4 +1,4 @@
 ---
-layout: other
+layout: rjzt
 title: 杂谈
 ---
