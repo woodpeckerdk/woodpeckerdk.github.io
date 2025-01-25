@@ -67,8 +67,18 @@
 - name: 上尿路尿路上皮癌
   image: ../assets/images/bg/UTUC.jpg
   items:
-    - text: 建设中...
-      url: 
+    - text: UTUC的流行病学和病因病理学
+      url: ../../postButHide/2025-01-25-UTUC的流行病学和病因病理学
+    - text: UTUC的分期和分级系统
+      url: ../../postButHide/2025-01-25-UTUC的分期和分级系统
+    - text: UTUC的诊断
+      url: ../../postButHide/2025-01-25-UTUC的诊断
+    - text: UTUC的预后评估
+      url: ../../postButHide/2025-01-25-UTUC的预后评估
+    - text: UTUC的治疗
+      url: ../../postButHide/2025-01-25-UTUC的治疗
+    - text: UTUC的随访
+      url: ../../postButHide/2025-01-25-UTUC的随访
 
 - name: 泌尿系统感染性疾病
   image: https://picx.zhimg.com/v2-43d71b04159846c4b3dc9d143b989b87_1440w.jpg?source=172ae18b
