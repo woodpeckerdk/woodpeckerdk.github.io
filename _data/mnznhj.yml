@@ -55,8 +55,10 @@
 - name: 睾丸肿瘤
   image: https://assureurology.sg/wp-content/uploads/2022/11/Healthy-and-Testicular-Cancer-1024x660.jpg
   items:
-    - text: 建设中...
-      url: 
+    - text: 睾丸肿瘤的流行病学和病因学 
+      url: ../../postButHide/2025-06-16-睾丸肿瘤的流行病学和病因学
+    - text: 睾丸肿瘤的分期
+      url: ../../postButHide/2025-06-17-睾丸肿瘤的分类和分期
 
 - name: 阴茎癌
   image: https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/01655c062100470788ad8add1375a20c~tplv-xv4ileqgde-resize-w:750.image
