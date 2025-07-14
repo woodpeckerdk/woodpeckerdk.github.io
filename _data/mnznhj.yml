@@ -59,6 +59,16 @@
       url: ../../postButHide/2025-06-16-睾丸肿瘤的流行病学和病因学
     - text: 睾丸肿瘤的分期
       url: ../../postButHide/2025-06-17-睾丸肿瘤的分类和分期
+    - text: 睾丸肿瘤的诊断
+      url: ../../postButHide/2025-06-17-睾丸肿瘤的诊断
+    - text: I期生殖细胞肿瘤的治疗
+      url: ../../postButHide/2025-06-17-I期生殖细胞肿瘤的治疗
+    - text: 转移性睾丸生殖细胞肿瘤的治疗
+      url: ../../postButHide/2025-06-17-转移性睾丸生殖细胞肿瘤的治疗
+    - text: 睾丸生殖细胞肿瘤的随访
+      url: ../../postButHide/2025-06-23-睾丸生殖细胞肿瘤随访
+    - text: 睾丸非生殖细胞肿瘤
+      url: ../../postButHide/2025-06-23-睾丸非生殖细胞肿瘤
 
 - name: 阴茎癌
   image: https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/01655c062100470788ad8add1375a20c~tplv-xv4ileqgde-resize-w:750.image
@@ -66,6 +76,12 @@
     - text: 建设中...
       url: 
 
+- name: 良性前列腺增生
+  image: /assets/images/image_in_post/image.png
+  items:
+    - text: 流行病学与病因病理学
+      url: ../../postButHide/2025-07-14-BPH的流行病学和病因学
+       
 - name: 上尿路尿路上皮癌
   image: ../assets/images/bg/UTUC.jpg
   items:
@@ -103,3 +119,4 @@
       url: ../../postButHide/2024-09-17-念珠菌尿路感染.html
     - text: 9.泌尿外科抗菌药物应用指南
       url: ../../postButHide/2024-09-17-泌尿外科抗菌药物应用指南.html
+      
