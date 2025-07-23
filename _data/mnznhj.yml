@@ -76,11 +76,7 @@
     - text: 建设中...
       url: 
 
-- name: 良性前列腺增生
-  image: /assets/images/image_in_post/image.png
-  items:
-    - text: 流行病学与病因病理学
-      url: ../../postButHide/2025-07-14-BPH的流行病学和病因学
+
        
 - name: 上尿路尿路上皮癌
   image: ../assets/images/bg/UTUC.jpg
@@ -119,4 +115,12 @@
       url: ../../postButHide/2024-09-17-念珠菌尿路感染.html
     - text: 9.泌尿外科抗菌药物应用指南
       url: ../../postButHide/2024-09-17-泌尿外科抗菌药物应用指南.html
-      
+
+
+- name: 良性前列腺增生
+  image: /assets/images/image_in_post/image.png
+  items:
+    - text: 流行病学与病因病理学
+      url: ../../postButHide/2025-07-14-BPH的流行病学和病因学
+    - text: BPH的诊断
+      url: ../../postButHide/2025-07-15-BPH的诊断
