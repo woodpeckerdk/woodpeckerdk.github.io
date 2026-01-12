@@ -1,7 +1,7 @@
 markdown: kramdown
 # WhatATheme
 # URL of the Site
-url: "https://dengkai.fun"
+url:
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: ""
 host: 127.0.0.1
